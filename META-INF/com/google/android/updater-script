@@ -5,7 +5,7 @@ ui_print("TWRP Installer");
 ui_print("");
 ui_print("Developer: javelinanddart");
 ui_print("");
-ui_print("Device: Samsung Blaze 4G");
+ui_print("Device: Samsung Galaxy Exhilarate");
 ui_print("");
 ui_print("Installing TWRP Recovery....");
 ui_print("");

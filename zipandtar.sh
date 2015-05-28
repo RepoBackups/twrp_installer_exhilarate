@@ -3,7 +3,7 @@
 echo "************************************************"
 echo "*******Recovery Installer Maker Script**********"
 echo "********By Javelinanddart (Paul Keith)**********"
-echo "**For the Samsung Galaxy S Blaze 4G (SGH-T769)**"
+echo "**For the Samsung Galaxy Exhilarate (SGH-I577)**"
 echo "************************************************"
 
 echo "************************************************"
